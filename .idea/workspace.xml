@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e31e1f4-3716-464b-ba32-de23615aff26" name="Changes" comment="Implementação de parte das classes bootcamp e dev">
+    <list default="true" id="4e31e1f4-3716-464b-ba32-de23615aff26" name="Changes" comment="Finalizando implementação das classes Dev e Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639518578070</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finalizando implementação das classes Dev e Bootcamp">
+      <created>1639524861374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639524861374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
     <MESSAGE value="Mentoria e Curso" />
     <MESSAGE value="Mentoria e curso refatorados para usar conteudo e classes bootcamp e dev criadas" />
     <MESSAGE value="Implementação de parte das classes bootcamp e dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação de parte das classes bootcamp e dev" />
+    <MESSAGE value="Finalizando implementação das classes Dev e Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando implementação das classes Dev e Bootcamp" />
   </component>
 </project>
